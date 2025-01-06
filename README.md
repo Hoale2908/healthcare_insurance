@@ -2,6 +2,8 @@
 
 This project focuses on performing exploratory data analysis (EDA) and developing prediction models on a healthcare insurance dataset. The goal is to explore the dataset through visualization, clean and prepare the data, and build predictive models to estimate healthcare charges.
 
+To view the detailed notebook, [click here](https://github.com/Hoale2908/healthcare_insurance/blob/main/health-insurance-eda.ipynb).
+
 ## Features
 - **Data Exploration:** Explored dataset columns, identified data types, and summarized key statistics.
 - **Data Cleaning:** Managed missing values, handled outliers, and ensured data consistency for reliable analysis.
